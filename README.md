@@ -1,7 +1,11 @@
-# Hello there, welcome to Izabella's repository. 
+# Welcome! 
+#### This Izabella's repository 
++ learning how to code
++ lecturer at the **Univeristy of the Arts** in Bremen  🎓 
++ **editorial desiger. ** 
+___
 
-   I am a lecturer at the **Univeristy of the Arts** in Bremen  🎓 and an **editorial desiger.** 
-### I'm your person, if:
+#### I'm your person, if:
 
 + you would like to publish a magazine or a book, 
 
