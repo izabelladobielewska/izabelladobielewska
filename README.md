@@ -1,9 +1,9 @@
 # Welcome!:wave: 
 #### This Izabella's repository 
-+  :snail: learning how to code
++  :snail: Learning how to code –> Web Development Course at [neuefische](https://www.neuefische.de/bootcamp/web-development)
 +  🎓 Masters in Integrated Design
-+  💼 lecturer at the Univeristy of the Arts 
-+  💻 editorial desiger
++  💼 Lecturer at the Univeristy of the Arts 
++  💻 Editorial desiger
 ___
 
 #### I'm your person, if:
